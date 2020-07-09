@@ -6,8 +6,6 @@ My name is Antony. I'm a [Svelte](https://svelte.dev) core member and maintainer
 **antony/antony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Beyonk!
 - 🌱 I’m currently using Svelte
 - ⚡ Fun fact: I do things.
